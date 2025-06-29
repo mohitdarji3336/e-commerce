@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 2999,
+      "rating": 4.5,
+      "stock": true,
+      "description": "High-quality noise cancelling wireless headphones with 40 hours playtime.",
+      "image": "/images/headphones.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Pro X",
+      "category": "Electronics",
+      "price": 49999,
+      "rating": 4.7,
+      "stock": true,
+      "description": "Flagship smartphone with stunning display and top-tier camera.",
+      "image": "/images/smartphone.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 1999,
+      "rating": 4.3,
+      "stock": true,
+      "description": "Portable speaker with deep bass and 24-hour battery life.",
+      "image": "/images/speaker.jpg"
+    },
+    {
+      "id": 4,
+      "name": "4K Action Camera",
+      "category": "Electronics",
+      "price": 7999,
+      "rating": 4.4,
+      "stock": true,
+      "description": "Waterproof action camera with 4K recording and WiFi.",
+      "image": "/images/camera.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Fitness Tracker",
+      "category": "Electronics",
+      "price": 2499,
+      "rating": 4.1,
+      "stock": true,
+      "description": "Track your health and activity with this stylish fitness band.",
+      "image": "/images/fitnesstracker.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Laptop Air 14",
+      "category": "Electronics",
+      "price": 59999,
+      "rating": 4.6,
+      "stock": true,
+      "description": "Ultra-light laptop with 14-inch display and long battery life.",
+      "image": "/images/laptop.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Men's Denim Jacket",
+      "category": "Fashion",
+      "price": 1799,
+      "rating": 4.2,
+      "stock": true,
+      "description": "Stylish and comfortable denim jacket perfect for casual outings.",
+      "image": "/images/jacket.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Women's Maxi Dress",
+      "category": "Fashion",
+      "price": 1499,
+      "rating": 4.5,
+      "stock": true,
+      "description": "Elegant floral maxi dress for all occasions.",
+      "image": "/images/maxidress.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Unisex Sneakers",
+      "category": "Fashion",
+      "price": 2499,
+      "rating": 4.3,
+      "stock": true,
+      "description": "Trendy sneakers with cushioned sole for all-day comfort.",
+      "image": "/images/sneakers.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Leather Handbag",
+      "category": "Fashion",
+      "price": 2999,
+      "rating": 4.6,
+      "stock": true,
+      "description": "Premium leather handbag with spacious compartments.",
+      "image": "/images/handbag.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Classic Aviator Sunglasses",
+      "category": "Fashion",
+      "price": 999,
+      "rating": 4.4,
+      "stock": true,
+      "description": "UV-protected aviator sunglasses for a timeless look.",
+      "image": "/images/sunglasses.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Woolen Scarf",
+      "category": "Fashion",
+      "price": 599,
+      "rating": 4.1,
+      "stock": true,
+      "description": "Soft woolen scarf to keep you warm and stylish.",
+      "image": "/images/scarf.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Bestselling Thriller Novel",
+      "category": "Books",
+      "price": 399,
+      "rating": 4.8,
+      "stock": true,
+      "description": "A gripping thriller that will keep you on the edge of your seat.",
+      "image": "/images/thriller.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Cookbook: Easy Recipes",
+      "category": "Books",
+      "price": 299,
+      "rating": 4.5,
+      "stock": true,
+      "description": "Delicious and easy recipes for everyday cooking.",
+      "image": "/images/cookbook.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Children's Fairy Tales",
+      "category": "Books",
+      "price": 249,
+      "rating": 4.7,
+      "stock": true,
+      "description": "Enchanting fairy tales for children of all ages.",
+      "image": "/images/fairytales.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Science Fiction Saga",
+      "category": "Books",
+      "price": 499,
+      "rating": 4.6,
+      "stock": true,
+      "description": "Epic science fiction adventure across galaxies.",
+      "image": "/images/scifi.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Self-Help Guide",
+      "category": "Books",
+      "price": 349,
+      "rating": 4.3,
+      "stock": true,
+      "description": "Practical tips for personal growth and success.",
+      "image": "/images/selfhelp.jpg"
+    },
+    {
+      "id": 18,
+      "name": "History of Art",
+      "category": "Books",
+      "price": 599,
+      "rating": 4.2,
+      "stock": true,
+      "description": "A beautifully illustrated journey through art history.",
+      "image": "/images/artbook.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Air Fryer XL",
+      "category": "Home Appliances",
+      "price": 4999,
+      "rating": 4.5,
+      "stock": true,
+      "description": "Large capacity air fryer for healthy and quick meals.",
+      "image": "/images/airfryer.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Robot Vacuum Cleaner",
+      "category": "Home Appliances",
+      "price": 12999,
+      "rating": 4.6,
+      "stock": true,
+      "description": "Smart robot vacuum with app control and auto-charging.",
+      "image": "/images/vacuum.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Espresso Coffee Maker",
+      "category": "Home Appliances",
+      "price": 3499,
+      "rating": 4.4,
+      "stock": true,
+      "description": "Brew barista-quality espresso at home easily.",
+      "image": "/images/coffee.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Blender Pro 900W",
+      "category": "Home Appliances",
+      "price": 2499,
+      "rating": 4.3,
+      "stock": true,
+      "description": "Powerful blender for smoothies, shakes, and more.",
+      "image": "/images/blender.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Steam Iron Deluxe",
+      "category": "Home Appliances",
+      "price": 1599,
+      "rating": 4.2,
+      "stock": true,
+      "description": "Efficient steam iron with anti-drip and auto shut-off.",
+      "image": "/images/iron.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Digital Air Purifier",
+      "category": "Home Appliances",
+      "price": 6999,
+      "rating": 4.5,
+      "stock": true,
+      "description": "HEPA air purifier for clean and fresh indoor air.",
+      "image": "/images/airpurifier.jpg"
+    }
+  ]
+} 
