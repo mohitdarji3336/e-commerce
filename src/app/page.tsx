@@ -145,7 +145,17 @@ export default function HomePage() {
                 <Link href={`/products/${product.id}`}>
                   <div className="relative">
                     <div className="aspect-square bg-gray-200 flex items-center justify-center">
-                      <div className="text-gray-400 text-4xl">📱</div>
+                      <img
+                        src={product.image || 'https://via.placeholder.com/300x200.png?text=Product+Image'}
+                        alt={product.name}
+                        className="object-contain w-full h-full"
+                        onError={e => {
+                          const target = e.target as HTMLImageElement;
+                          if (target.src !== 'https://via.placeholder.com/300x200.png?text=Product+Image') {
+                            target.src = 'https://via.placeholder.com/300x200.png?text=Product+Image';
+                          }
+                        }}
+                      />
                     </div>
                     <div className="absolute top-3 right-3">
                       <button className="p-2 bg-white rounded-full shadow-md hover:bg-red-50 transition-colors duration-200">

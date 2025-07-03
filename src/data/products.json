@@ -8,7 +8,7 @@
       "rating": 4.5,
       "stock": true,
       "description": "High-quality noise cancelling wireless headphones with 40 hours playtime.",
-      "image": "/images/headphones.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "rating": 4.7,
       "stock": true,
       "description": "Flagship smartphone with stunning display and top-tier camera.",
-      "image": "/images/smartphone.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "rating": 4.3,
       "stock": true,
       "description": "Portable speaker with deep bass and 24-hour battery life.",
-      "image": "/images/speaker.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "rating": 4.4,
       "stock": true,
       "description": "Waterproof action camera with 4K recording and WiFi.",
-      "image": "/images/camera.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "rating": 4.1,
       "stock": true,
       "description": "Track your health and activity with this stylish fitness band.",
-      "image": "/images/fitnesstracker.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "rating": 4.6,
       "stock": true,
       "description": "Ultra-light laptop with 14-inch display and long battery life.",
-      "image": "/images/laptop.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "rating": 4.2,
       "stock": true,
       "description": "Stylish and comfortable denim jacket perfect for casual outings.",
-      "image": "/images/jacket.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "rating": 4.5,
       "stock": true,
       "description": "Elegant floral maxi dress for all occasions.",
-      "image": "/images/maxidress.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "rating": 4.3,
       "stock": true,
       "description": "Trendy sneakers with cushioned sole for all-day comfort.",
-      "image": "/images/sneakers.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "rating": 4.6,
       "stock": true,
       "description": "Premium leather handbag with spacious compartments.",
-      "image": "/images/handbag.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 11,
@@ -108,7 +108,7 @@
       "rating": 4.4,
       "stock": true,
       "description": "UV-protected aviator sunglasses for a timeless look.",
-      "image": "/images/sunglasses.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 12,
@@ -118,7 +118,7 @@
       "rating": 4.1,
       "stock": true,
       "description": "Soft woolen scarf to keep you warm and stylish.",
-      "image": "/images/scarf.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 13,
@@ -128,7 +128,7 @@
       "rating": 4.8,
       "stock": true,
       "description": "A gripping thriller that will keep you on the edge of your seat.",
-      "image": "/images/thriller.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 14,
@@ -138,7 +138,7 @@
       "rating": 4.5,
       "stock": true,
       "description": "Delicious and easy recipes for everyday cooking.",
-      "image": "/images/cookbook.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 15,
@@ -148,7 +148,7 @@
       "rating": 4.7,
       "stock": true,
       "description": "Enchanting fairy tales for children of all ages.",
-      "image": "/images/fairytales.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 16,
@@ -158,7 +158,7 @@
       "rating": 4.6,
       "stock": true,
       "description": "Epic science fiction adventure across galaxies.",
-      "image": "/images/scifi.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 17,
@@ -168,7 +168,7 @@
       "rating": 4.3,
       "stock": true,
       "description": "Practical tips for personal growth and success.",
-      "image": "/images/selfhelp.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 18,
@@ -178,7 +178,7 @@
       "rating": 4.2,
       "stock": true,
       "description": "A beautifully illustrated journey through art history.",
-      "image": "/images/artbook.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 19,
@@ -188,7 +188,7 @@
       "rating": 4.5,
       "stock": true,
       "description": "Large capacity air fryer for healthy and quick meals.",
-      "image": "/images/airfryer.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 20,
@@ -198,7 +198,7 @@
       "rating": 4.6,
       "stock": true,
       "description": "Smart robot vacuum with app control and auto-charging.",
-      "image": "/images/vacuum.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 21,
@@ -208,7 +208,7 @@
       "rating": 4.4,
       "stock": true,
       "description": "Brew barista-quality espresso at home easily.",
-      "image": "/images/coffee.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 22,
@@ -218,7 +218,7 @@
       "rating": 4.3,
       "stock": true,
       "description": "Powerful blender for smoothies, shakes, and more.",
-      "image": "/images/blender.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 23,
@@ -228,7 +228,7 @@
       "rating": 4.2,
       "stock": true,
       "description": "Efficient steam iron with anti-drip and auto shut-off.",
-      "image": "/images/iron.jpg"
+      "image": "https://picsum.photos/200/300"
     },
     {
       "id": 24,
@@ -238,7 +238,7 @@
       "rating": 4.5,
       "stock": true,
       "description": "HEPA air purifier for clean and fresh indoor air.",
-      "image": "/images/airpurifier.jpg"
+      "image": "https://picsum.photos/200/300"
     }
   ]
 } 

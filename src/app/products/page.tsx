@@ -227,7 +227,7 @@ export default function ProductsPage() {
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                 {currentProducts.map((product, index) => (
                   <motion.div
-                    key={product.id}
+                    key={product.id.toString()}
                     initial={{ opacity: 0, y: 20 }}
                     animate={{ opacity: 1, y: 0 }}
                     transition={{ duration: 0.6, delay: index * 0.1 }}
@@ -297,7 +297,7 @@ export default function ProductsPage() {
               <div className="space-y-4">
                 {currentProducts.map((product, index) => (
                   <motion.div
-                    key={product.id}
+                    key={product.id.toString()}
                     initial={{ opacity: 0, x: 20 }}
                     animate={{ opacity: 1, x: 0 }}
                     transition={{ duration: 0.6, delay: index * 0.1 }}

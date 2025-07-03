@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { use, useState, useEffect } from 'react';
 import Link from 'next/link';
 import { ShoppingCart, Star, Heart, Eye } from 'lucide-react';
 import productsData from '@/data/products.json';
@@ -17,10 +17,10 @@ interface Product {
   image: string;
 }
 
-export default function CategoryPage({ params }: { params: { category: string } }) {
+export default function CategoryPage({ params }: { params: Promise<{ category: string }> }) {
+  const { category } = use(params);
   const [products, setProducts] = useState<Product[]>([]);
   const addToCart = useCartStore((state) => state.addToCart);
-  const category = decodeURIComponent(params.category);
 
   useEffect(() => {
     setProducts(productsData.products.filter(p => p.category.toLowerCase() === category.toLowerCase()));
@@ -49,7 +49,7 @@ export default function CategoryPage({ params }: { params: { category: string } 
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
             {products.map((product) => (
-              <div key={product.id} className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300">
+              <div key={product.id.toString()} className="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300">
                 <Link href={`/products/${product.id}`}>
                   <div className="relative">
                     <div className="aspect-square bg-gray-200 flex items-center justify-center overflow-hidden">
